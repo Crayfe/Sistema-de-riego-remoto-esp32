@@ -20,7 +20,7 @@ Dicha bomba será controlada con un node-mcu, de tal forma que nos aprovecharemo
 ### El prototipo
 Así luciría el prototipo para las pruebas:
 
-![image text](https://github.com/Crayfe/01-Sistema-Riego-Remoto/blob/master/Images/ELLHO7xXUAAJxpp.jpeg)
+![image text](https://github.com/Crayfe/01-Sistema-Riego-Remoto/blob/main/Images/ELLHO7xXUAAJxpp.jpeg)
 
 Y un video demostrativo que no falte:
 
