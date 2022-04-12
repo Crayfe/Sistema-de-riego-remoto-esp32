@@ -7,8 +7,8 @@
 #include "page.h" //Pagina HTML con javascript
 #define RL 16  //Puerto del relé para endender y apagar la bomba de agua 
 
-const char* ssid = "vodafoneFD30";
-const char* password = "R2MHRTMGTNJZGK";
+const char* ssid = "nombreWiFi";//Aquí va el nombre de la conexión wifi
+const char* password = "contraseñaWiFi";//Aquí va la contraseña del wifi
 String state = "Regar bonsái";
 ESP8266WebServer server(80); //El puerto del servidor será el de por defecto
 

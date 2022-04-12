@@ -16,3 +16,12 @@ Dicha bomba será controlada con un node-mcu, de tal forma que nos aprovecharemo
 * Impresora 3D para imprimir las piezas del depósito.
 * Un trozo de manguera del
 * Botella de plástico.
+
+### El prototipo
+Así luciría el prototipo para las pruebas:
+
+![image text](https://github.com/Crayfe/01-Sistema-Riego-Remoto/blob/master/Images/ELLHO7xXUAAJxpp.jpeg)
+
+Y un video demostrativo que no falte:
+
+[![Alt text](https://img.youtube.com/vi/8-4wp1dOSXM/0.jpg)](https://www.youtube.com/watch?v=8-4wp1dOSXM)
