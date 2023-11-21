@@ -1,5 +1,5 @@
  
-# 01- Pequeño sistema de riego remoto
+# Sistema de riego remoto con ESP32
 
 ## Descripción
 
